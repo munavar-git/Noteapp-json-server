@@ -1,0 +1,41 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Team Meeting",
+      "content": "Discuss roadmap and deadlines.",
+      "color": "yellow",
+      "tags": [
+        "work"
+      ],
+      "archived": false,
+      "createdAt": "2026-02-10T10:00:00Z",
+      "updatedAt": "2026-02-10T10:00:00Z"
+    },
+    {
+      "title": "react notes",
+      "content": "complete todays topics,\nlearn usereducer,\ncreate a custom hook,",
+      "color": "blue",
+      "tags": [
+        "study goal"
+      ],
+      "archived": false,
+      "createdAt": "2026-10-13T20:25:48.549Z",
+      "updatedAt": "2026-10-13T20:26:09.678Z",
+      "id": "R8dM2VrrPno"
+    },
+    {
+      "title": "redux topics",
+      "content": "learn redux topics",
+      "color": "green",
+      "tags": [
+        "study goals"
+      ],
+      "archived": false,
+      "createdAt": "2026-10-13T20:28:36.179Z",
+      "updatedAt": "2026-10-13T20:28:36.179Z",
+      "id": "LytWohAdy-g"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
